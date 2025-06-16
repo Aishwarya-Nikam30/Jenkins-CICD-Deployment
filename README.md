@@ -141,8 +141,8 @@ Thank you for checking out this project! I hope it helps you in your DevOps and 
 
 🤝 Connect With Me
 
-LinkedIn: (https://www.linkedin.com/in/aishanikam30)
-GitHub: (https://github.com/Aishwarya-Nikam30)
-Email: (mailto:aishwarya.nikam3009@gmail.com)
+LinkedIn: https://www.linkedin.com/in/aishanikam30
+GitHub: https://github.com/Aishwarya-Nikam30
+Email: mailto:aishwarya.nikam3009@gmail.com
 
 ---
